@@ -1,0 +1,13 @@
+{
+  "name": "test-libgit2",
+  "version-string": "0.0.1",
+  "dependencies": [
+    {
+      "name": "libgit2",
+      "default-features": true,
+      "features": [
+        "ssh"
+      ]
+    }
+  ]
+}
